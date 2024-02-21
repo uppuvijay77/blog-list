@@ -1,0 +1,20 @@
+/* Write your CSS code here */
+.list-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  border-bottom: 1px solid #9aa5b1;
+  padding-right: 18px;
+}
+.description-container {
+  margin-top: 0px;
+}
+.time {
+  margin-top: 10px;
+}
+.description {
+  font-size: 16px;
+}
+.title {
+  font-size: 18px;
+}
